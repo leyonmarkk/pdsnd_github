@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  2 10:47:26 2025
 
-@author: EBSAKL5
+@author: Katherine Leyonmark
 """
 
 import time
