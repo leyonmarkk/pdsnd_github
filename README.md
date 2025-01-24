@@ -20,3 +20,6 @@ The files used for this project, along with the project template file can be fou
 
 ### Software Required
 *The only required software for this project is a **programming environment**. I used Spyder for my work.*
+
+### Known Bugs
+*The only known bug is when asking the user if they would like to see 5 more lines of raw data. If there is a spelling error in the response from the user, it flags as an invalid input, but does not prompt the user to retry.*
